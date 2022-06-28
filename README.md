@@ -41,3 +41,18 @@
 
 1. Data Structures and Algorithms implemented in below course
 https://udemy.com/course/master-the-coding-interview-data-structures-algorithms
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/gopigoppu/data-structures-and-algorithms-javascript.svg?style=for-the-badge
+[contributors-url]: https://github.com/gopigoppu/data-structures-and-algorithms-javascript/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gopigoppu/data-structures-and-algorithms-javascript.svg?style=for-the-badge
+[forks-url]: https://github.com/gopigoppu/data-structures-and-algorithms-javascript/network/members
+[stars-shield]: https://img.shields.io/github/stars/gopigoppu/data-structures-and-algorithms-javascript.svg?style=for-the-badge
+[stars-url]: https://github.com/gopigoppu/data-structures-and-algorithms-javascript/stargazers
+[issues-shield]: https://img.shields.io/github/issues/gopigoppu/data-structures-and-algorithms-javascript.svg?style=for-the-badge
+[issues-url]: https://github.com/gopigoppu/data-structures-and-algorithms-javascript/issues
+[license-shield]: https://img.shields.io/github/license/gopigoppu/data-structures-and-algorithms-javascript.svg?style=for-the-badge
+[license-url]: https://github.com/gopigoppu/data-structures-and-algorithms-javascript/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/gopigoppu
