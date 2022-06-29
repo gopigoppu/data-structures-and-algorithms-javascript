@@ -33,9 +33,17 @@
 ## Data Structures Implemented using Javascript ==>
 
 1. Array
-2. Hash Table
+2. Stacks
+3. Queues
+4. Linked Lists
+5. Trees
+6. Tries
+7. Graphs
+8. Hash Tables
 
 
+<br />
+<br />
 
 ## References
 
