@@ -32,14 +32,14 @@
 
 ## Data Structures Implemented using Javascript ==>
 
-1. Array
+1. [Array](./array/)
 2. Stacks
 3. Queues
 4. Linked Lists
 5. Trees
 6. Tries
 7. Graphs
-8. Hash Tables
+8. [Hash Tables](./hash_table/)
 
 
 <br />
