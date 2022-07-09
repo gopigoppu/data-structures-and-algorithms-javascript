@@ -47,11 +47,11 @@ class LinkedList {
 
     // Insert value at specific index
     insert(index, value) {
+        if (index <= 0) {
+            return this.prepend(value);
+        }
         if (index >= this.length) {
             return this.append(value);
-        }
-        if (index === 0) {
-            return this.prepend(value);
         }
         const newNode = new Node(value);
         const leader = this.traverseToIndex(index - 1);
