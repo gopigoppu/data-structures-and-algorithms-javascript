@@ -33,9 +33,9 @@
 ## Data Structures Implemented using Javascript ==>
 
 1. [Array](./array/)
-2. Stacks
-3. Queues
-4. Linked Lists
+2. [Stack](./stack/)
+3. [Queue](./queue/)
+4. [Linked Lists](./linked_list/)
 5. Trees
 6. Tries
 7. Graphs
