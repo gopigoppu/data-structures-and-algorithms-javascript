@@ -36,9 +36,9 @@
 2. [Stack](./stack/)
 3. [Queue](./queue/)
 4. [Linked Lists](./linked_list/)
-5. Trees
+5. [Trees](./tree/)
 6. Tries
-7. Graphs
+7. [Graph](./graph/)
 8. [Hash Tables](./hash_table/)
 
 
